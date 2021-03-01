@@ -1,0 +1,13 @@
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\bin\Debug\Sample_UI.exe.config
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\bin\Debug\Sample_UI.exe
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\bin\Debug\Sample_UI.pdb
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.csprojAssemblyReference.cache
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.Form1.resources
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.Properties.Resources.resources
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.csproj.GenerateResource.cache
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.csproj.CoreCompileInputs.cache
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.exe
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.pdb
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.Form3.resources
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.Form2.resources
+C:\Users\sadaruwan\source\repos\Sample_UI\Sample_UI\obj\Debug\Sample_UI.Form4.resources
